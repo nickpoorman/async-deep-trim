@@ -45,7 +45,7 @@ This method takes a callback `cb(err, result)` that will return the array with i
 With [npm](http://npmjs.org) do:
 
 ```
-npm install -g async-deep-trim
+npm install async-deep-trim
 ```
 
 # license
