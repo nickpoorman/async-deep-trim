@@ -1,6 +1,6 @@
 {
     "name" : "async-deep-trim",
-    "version" : "0.0.0",
+    "version" : "0.0.1",
     "description" : "asynchronous recursive module to trim Strings in large arrays",
     "main" : "index.js",
     "bin" : {},
