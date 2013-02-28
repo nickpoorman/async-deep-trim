@@ -1,0 +1,34 @@
+{
+    "name" : "async-deep-trim",
+    "version" : "0.0.0",
+    "description" : "asynchronous recursive module to trim Strings in large arrays",
+    "main" : "index.js",
+    "bin" : {},
+    "directories" : {
+        "example" : "example",
+        "test" : "test"
+    },
+    "dependencies" : {
+	   "async" : "0.2.5",
+       "string" : "1.2.1"
+    },
+    "devDependencies" : {
+        "tap" : "0.4.0",
+        "tape" : "0.2.2"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/nickpoorman/async-deep-trim.git"
+    },
+    "homepage" : "https://github.com/nickpoorman/async-deep-trim",
+    "keywords" : ["trim","async","string"],
+    "author" : {
+        "name" : "Nicholas Poorman",
+        "email" : "mail@nickpoorman.com",
+        "url" : "http://nickpoorman.com"
+    },
+    "license" : "MIT"
+}
